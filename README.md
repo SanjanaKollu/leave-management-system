@@ -471,9 +471,8 @@ Use:
 
 **Sanjana Reddy**
 
-- GitHub: https://github.com/<your-github-username>
-- LinkedIn: https://www.linkedin.com/in/<your-linkedin-profile>
-
+- GitHub: https://github.com/SanjanaKollu
+- LinkedIn: https://www.linkedin.com/in/sanjana-kollu
 ---
 
 ## License
